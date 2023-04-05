@@ -1,5 +1,5 @@
 {
-  "name": "driver.js",
+  "name": "@ningningzhu/driver.js",
   "version": "1.0.0",
   "description": "Customized driver.js(web walkthrough) package for Vue3 reactive",
   "main": "dist/driver.min.js",
