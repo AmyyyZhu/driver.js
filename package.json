@@ -1,6 +1,6 @@
 {
   "name": "@ningningzhu/driver.js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Customized driver.js(web walkthrough) package for Vue3 reactive",
   "main": "dist/driver.min.js",
   "types": "types/index.d.ts",

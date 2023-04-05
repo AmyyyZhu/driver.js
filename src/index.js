@@ -281,6 +281,7 @@ export default class Driver {
     const nextStep = this.steps[this.currentStep + 1];
     if (!nextStep) {
       this.reset();
+      this.isActivatedClosedForVue3.value = true;
       return;
     }
 
