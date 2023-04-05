@@ -1,7 +1,7 @@
 {
   "name": "driver.js",
   "version": "1.0.0",
-  "description": "A light-weight, no-dependency, vanilla JavaScript library to drive the user's focus across the page",
+  "description": "Customized driver.js(web walkthrough) package for Vue3 reactive",
   "main": "dist/driver.min.js",
   "types": "types/index.d.ts",
   "scripts": {
@@ -13,9 +13,9 @@
   "bugs": {
     "url": "https://github.com/kamranahmedse/driver.js/issues"
   },
-  "homepage": "https://github.com/kamranahmedse/driver.js#readme",
-  "repository": "https://github.com/kamranahmedse/driver.js",
-  "author": "Kamran Ahmed <kamranahmed.se@gmail.com>",
+  "homepage": "https://github.com/AmyyyZhu/driver.js#readme",
+  "repository": "https://github.com/AmyyyZhu/driver.js",
+  "author": "Ningning Zhu <nz14@rice.edu>",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.16.5",
